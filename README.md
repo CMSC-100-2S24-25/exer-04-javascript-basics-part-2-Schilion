@@ -8,5 +8,7 @@ Clemente, Carl Timothy E.
 BS Computer Science
 
 ### Key Takeaways##
-- 
+- Learned how to validate user input effectively to prevent errors
+- Gained experience in generating unique user IDs using UUID.
+
 
