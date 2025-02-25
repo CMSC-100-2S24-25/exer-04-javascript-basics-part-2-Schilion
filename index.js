@@ -1,6 +1,6 @@
 const fs = require("fs"); // File system module to write user data to a file
 const validator = require("validator"); // Validator module for email validation
-const { v4: uuidv4 } = require("uuid"); // UUID module for generating unique IDs
+const uuidv4 = require("uuid").v4; // Corrected UUID import for compatibility
 
 // Function to generate a unique ID
 function generateUniqueID(firstName, lastName) {
